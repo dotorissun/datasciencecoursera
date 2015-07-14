@@ -1,7 +1,7 @@
 ---
 title: "HelloWorld"
 author: "dotorissun"
-date: "2015³â 7¿ù 9ÀÏ"
+date: "2015.07.09"
 output: html_document
 ---
 
