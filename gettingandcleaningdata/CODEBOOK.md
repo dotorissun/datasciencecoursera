@@ -1,11 +1,4 @@
----
-title: "Codebook"
-author: "dotorissun"
-date: "2015.07.27"
-output: pdf_document
----
-
-# Getting and Cleaning Data CODEBOOK
+# CODEBOOK
 
 ## Source
 

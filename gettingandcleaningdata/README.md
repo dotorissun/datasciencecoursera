@@ -1,11 +1,4 @@
----
-title: "Readme"
-author: "dotorissun"
-date: "2015.07.26"
-output: pdf_document
----
-
-# Getting and Cleaning Data README
+# README
 
 ## Course Project Introduction
 
